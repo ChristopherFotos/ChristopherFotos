@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopherfotos/)
 
----
+## ![Banner](https://christopherfotos.herokuapp.com/static/media/portfolio-thumb.JPG)
 
 ## Hi there 👋,
 
@@ -21,7 +21,3 @@ I'm Christopher Fotos. Building web applications isn't just my career, it's my p
   - [BitBeat](https://bitbeat.herokuapp.com/): A browser-based beat sequencer made with react. [Click here](https://www.youtube.com/watch?v=wOQPBKrlqUU) to see a video of me demonstrating it!
   - [props.js](https://github.com/ChristopherFotos/props.js): a JavaSctipt library for creating games and animations on HTML5 canvas. A work in progress, I might even rebuild it in typescript!!! Check it out on [npm](https://www.npmjs.com/package/propsjs) or play with this fun [demo](https://christopherfotos.herokuapp.com/propsdemo)
   - [gridGraph](https://github.com/ChristopherFotos/props.js): a Javascript library for creating [cellular automata](https://www.youtube.com/watch?v=DKGodqDs9sA) and other neat grid-based goodies!! see it in action: - [Click here](https://christopherfotos.github.io/pathfinder/) to see a gridGraph implementation of the [A\* pathfinding algorightm!](https://www.youtube.com/watch?v=aKYlikFAV4k) - [Click here](https://christopherfotos.github.io/game-of-life/) to see a gridGraph implementation of the [Conway's game of Life!](https://www.youtube.com/watch?v=Aq51GfPmD54) - [Click here](https://christopherfotos.github.io/gridGraph/) to see a falling sand simulation that uses gridGraph!
-
-    # [banner image](https://christopherfotos.herokuapp.com/static/media/portfolio-thumb.JPG)
-
-  ![Banner](https://christopherfotos.herokuapp.com/static/media/portfolio-thumb.JPG)
