@@ -11,7 +11,7 @@ I'm Christopher Fotos. Building web applications isn't just my career, it's my p
 ## 🧐 About
 
 - 📚‍ I love learning, and I especially love teaching! I recently attended a web dev bootcamp where I spent lots of time teaching and supporting my classmates.
-- 😄 I recently participated in (and WON!!) my first hackathon! check out my project [here](https://christopherfotos.github.io/mnma/)
+- 🏆 I recently participated in (and WON!!) my first hackathon! check out my project [here](https://christopherfotos.github.io/mnma/)
 - 📚 I'm currently learning:
   - Typescript
   - Go
