@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopherfotos/)
 
-## ![Banner](https://christopherfotos.herokuapp.com/static/media/portfolio-thumb.JPG)
+## ![Banner](https://i.imgur.com/z0wVmhR.jpg)
 
 ## Hi there 👋,
 
